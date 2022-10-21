@@ -1,4 +1,26 @@
 img {
-    height: 300px;
-    width: 300px;
+    height: 350px;
+    width: 350px;
+}
+
+h1 {
+    color: darkolivegreen;
+    font-family: Helvetica;
+}
+
+h2 {
+    color: darkolivegreen;
+    font-family: Helvetica;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+li {
+    font-family: Helvetica;
+}
+
+a {
+    font-family: Helvetica;
 }
