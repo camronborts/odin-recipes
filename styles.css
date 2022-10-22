@@ -1,3 +1,7 @@
+* {
+    background-color: beige;
+}
+
 img {
     height: 350px;
     width: 350px;
@@ -6,6 +10,7 @@ img {
 h1 {
     color: darkolivegreen;
     font-family: Helvetica;
+
 }
 
 h2 {
