@@ -1,3 +1,5 @@
+@echo 
+
 .flex-container {
     display: flex;
 }
@@ -15,25 +17,12 @@ img {
     width: 350px;
 }
 
-h1 {
+h1, h2 {
     color: darkolivegreen;
     font-family: Helvetica;
 
 }
 
-h2 {
-    color: darkolivegreen;
-    font-family: Helvetica;
-}
-
-p {
-    font-family: Helvetica;
-}
-
-li {
-    font-family: Helvetica;
-}
-
-a {
+p, li, a {
     font-family: Helvetica;
 }
